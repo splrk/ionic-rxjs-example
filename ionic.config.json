@@ -1,0 +1,7 @@
+{
+  "name": "star-wars-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
